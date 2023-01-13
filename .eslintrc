@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["wise-vue"],
+  "overrides": [
+    {
+      "files": ["src/**/*"]
+    }
+  ]
+}
