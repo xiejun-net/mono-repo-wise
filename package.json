@@ -11,8 +11,5 @@
   "license": "ISC",
   "devDependencies": {
     "eslint-config-wise-vue": "workspace:*"
-  },
-  "dependencies": {
-    "wit": "^1.3.4"
   }
 }
