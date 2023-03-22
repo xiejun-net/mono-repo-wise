@@ -42,6 +42,7 @@ module.exports = {
     // 极端情况下不加分号会出错，facebook/react 是加了分号，但是vue默认不加分号，考虑到vscode可以自动格式化配置默认加分号
     'semi': ['error', 'always'],
     'quotes': ['error', 'single'],
+    'indent': ['error', 2],
     // eslint-plugin-import
     'import/order': 'off',
     'import/extensions': 'off',
